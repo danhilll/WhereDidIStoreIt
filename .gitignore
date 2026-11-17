@@ -1,0 +1,14 @@
+# macOS
+.DS_Store
+
+# Xcode per-user / build data
+xcuserdata/
+*.xcuserstate
+DerivedData/
+build/
+*.ipa
+*.dSYM.zip
+*.dSYM
+
+# Claude Code local skills/settings (installed tools, not app source)
+.claude/
